@@ -1,7 +1,5 @@
 # Alternate-Credit-Score
 
-# Alternate-Credit-Score
-
 This work involves calculating the Alternate Credit Score of the individuals based on their non-financial datapoints.
 Unlike the Traditional Credit Score calculation, factors like card amount, loan amout, income etc are not considered.
 
