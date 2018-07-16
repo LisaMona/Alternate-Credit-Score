@@ -17,3 +17,7 @@ Then giving some meaningful weight for each of the scores calculated, average of
 The credit scores were normalized between 0-100, The higher the score, more trustworthy the persion is.
 Now appending all these data features along with their credit scores(avg), the Alternate Credit Score was calculated in "model.py".
 Data Preprocessing was carried out and a Multiple linear regression model was fit to the data-points that could calculate the Scores with an accuracy of 81%.
+
+
+Since the dataset is kind of dummy and self-prepared, various other boundary conditions might have to be applied for the original dataset for the purpose before processing.
+Care has been taken keeping in mind the usual use-cases. 
